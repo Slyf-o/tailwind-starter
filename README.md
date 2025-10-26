@@ -27,7 +27,7 @@ Un template de démarrage rapide avec **Vite** + **TypeScript** + **Tailwind CSS
 1. **Cloner le template**
 
    ```bash
-   git clone https://github.com/slyf-o/terence-starter.git mon-nouveau-projet
+   git clone https://github.com/slyf-o/tailwind-starter.git mon-nouveau-projet
    cd mon-nouveau-projet
    ```
 
@@ -58,5 +58,6 @@ Un template de démarrage rapide avec **Vite** + **TypeScript** + **Tailwind CSS
 ## 🎯 Scripts disponibles
 
 - `npm run dev` - Démarre le serveur de développement
+- `npm run format` - Active le format prettier
 - `npm run build` - Construit l'application pour la production
 - `npm run preview` - Prévisualise la build de production
